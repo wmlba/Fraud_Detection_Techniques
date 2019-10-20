@@ -10,11 +10,12 @@ The dataset has been collected and analysed during a research collaboration of W
 
 ## Methods
 
-### - Supervised Methods:
+### - Supervised Methods (Decision Trees Classification):
 
-#### Decision Trees Classification
 This method uses a classification algorithm (XGBoost) given the fact that the dataset has both Fraud and Non-Fraud transactions.
---------
+
+-------------------
+
 
 ### - Unsupervised Methods:
 
