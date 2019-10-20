@@ -8,7 +8,7 @@ The dataset we use is publicly available at https://www.kaggle.com/mlg-ulb/credi
 
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML
 
-## Methods
+## Methods:
 
 ### - Supervised Methods (Decision Trees Classification):
 
@@ -19,7 +19,9 @@ This method uses a classification algorithm (XGBoost) given the fact that the da
 
 ### - Unsupervised Methods:
 
-#### Autoencoders
+#### 1- Autoencoders
+#### 2- Random Cut Forest
+#### 3- Isolation Forest
 
-#### Random Cut Forest
-#### Isolation Forest
+
+-------------------
