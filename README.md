@@ -4,7 +4,7 @@ A collection of Jupyter Notebooks to show different ways to implement anomaly an
 
 ## Dataset:
 
-The dataset we use is publicly available at https://www.kaggle.com/mlg-ulb/creditcardfraud
+The dataset used in this series of examples is publicly available at https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML
 
